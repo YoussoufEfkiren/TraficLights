@@ -149,4 +149,15 @@ body {
   .popup button:hover {
     background-color: darkgreen;
   }
+
+  .colaboration {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }
+  .colaboration a {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+  }
   
